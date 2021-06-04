@@ -1,0 +1,23 @@
+div{
+    border: 1px dashed blue;
+    margin: 20px;
+    text-align: center;
+    
+    margin-top:0px;
+
+}
+#BoxMargin{
+    background-color:  rgb(133, 44, 141);
+}
+#BoxBorder{
+    background-color:  yellow; /*會覆蓋到裡面的顏色*/
+}
+#BoxPadding{
+    background-color:  rgb(42, 85, 148); /*再做一次*/
+}
+#BoxContent{
+    padding-bottom:150px;
+    background-color:  rgb(0, 255, 115);
+
+}
+

@@ -1,0 +1,19 @@
+p, ul{
+    border: 2px solid rgb(192, 31, 130);
+    padding: .5em;
+}
+.block, li{
+    border: 2px solid rgba(36, 36, 233, 0.747);
+    padding: .5em;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    margin: 1px 10px;  /* 垂直 水平*/
+}
+.block{
+    display: block; 
+    border-bottom: 5px groove rgb(0, 255, 13);
+}
